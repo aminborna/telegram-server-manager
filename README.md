@@ -16,8 +16,10 @@ curl -fsSL https://raw.githubusercontent.com/aminborna/telegram-server-manager/m
 ## 🔑 تنظیمات
 
 فایل `config.json` را ویرایش کنید و `bot_token` و `allowed_users` را وارد کنید.
-##کد ویرایش: 
-```nano /opt/telegram-server-manager/config.json```
+
+###کد ویرایش: 
+```nano /opt/telegram-server-manager/config.json
+```
 ## ▶️ اجرا
 
 سرویس به صورت خودکار فعال می‌شود:
