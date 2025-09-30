@@ -1,0 +1,4 @@
+{
+  "bot_token": "token",
+  "allowed_users": [123456789] 
+}
