@@ -1,9 +1,7 @@
 # 🚀 Telegram Server Manager
 
-ربات مدیریت چند سرور از یک مستر:
+ربات مدیریت چند سرور:
 
-- ➕ افزودن سرور
-- 📋 لیست سرورها
 - 📊 وضعیت سیستم
 - 🔄 ریبوت / ⏹ خاموش کردن
 - 🔑 تغییر پسورد
@@ -18,7 +16,8 @@ curl -fsSL https://raw.githubusercontent.com/aminborna/telegram-server-manager/m
 ## 🔑 تنظیمات
 
 فایل `config.json` را ویرایش کنید و `bot_token` و `allowed_users` را وارد کنید.
-
+##کد ویرایش: 
+```nano /opt/telegram-server-manager/config.json```
 ## ▶️ اجرا
 
 سرویس به صورت خودکار فعال می‌شود:
